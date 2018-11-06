@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    margin-top: 30;
+    margin-bottom: 20;
+    
+}
+
+.prod_especial {
+    color: green;
+}
+
+h1 {
+    color: blue;
+    
+}
+
+a {
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 15px;
+}
+
+a:link {
+    color: darkblue;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover {
+    color: green;
+    text-transform: uppercase
+}
+
+a:active {
+    color: red;
+}
+
+div {
+    
+}
+
+table {
+    text-align: center;
+    
+}
